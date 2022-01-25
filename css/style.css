@@ -3,6 +3,23 @@
 .titel-color{
     color: #3E3E3E;
 }
+
+#discrption{
+    color: #848199;
+}
+
+.footer-color{
+    color: white;
+}
+
+.color{
+    color: white;
+}
+
+
+
+
+
 @media only screen and (max-width: 600px){
     
 #event-caption{
