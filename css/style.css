@@ -16,6 +16,9 @@
     color: white;
 }
 
+.image{
+    height: 300px;
+    width: 500px}
 
 
 
@@ -24,6 +27,16 @@
     
 #event-caption{
 height: 500px
+}
+
+.column{
+    display: flex;
+    flex-direction: column;
+}
+.sm-image{
+  
+    height: 150px;
+    width: 250px;
 }
 
 }
