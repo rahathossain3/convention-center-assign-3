@@ -1,6 +1,12 @@
 /* custome css */
 
-.banner-image{
-    height: 584px;
+.titel-color{
+    color: #3E3E3E;
+}
+@media only screen and (max-width: 600px){
     
+#event-caption{
+height: 500px
+}
+
 }
